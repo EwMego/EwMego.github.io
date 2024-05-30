@@ -1,6 +1,6 @@
 {
   "homepage": "https://ewmego.github.io/image-resizer/",
-  "name": "imageresizer",
+  "name": "image-resizer",
   "private": true,
   "version": "0.0.0",
   "type": "module",
